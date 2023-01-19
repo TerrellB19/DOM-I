@@ -53,7 +53,7 @@ middleImg.src = 'http://localhost:9000/img/accent.png';
 const header = document.querySelector('header')
 const nav = document.querySelectorAll('nav a')
 const h1 = document.querySelector('h1')
-h1.textContent = 'DOM IS AWESOME'
+h1.textContent = 'DOM Is Awesome'
 const button = document.querySelector('button')
 button.textContent = 'Get Started'
 // nav
